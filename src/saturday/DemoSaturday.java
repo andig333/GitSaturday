@@ -6,7 +6,7 @@ public class DemoSaturday {
 	
 	}
 //this is coming from gitHub
-	public static void (int a, int b){
-	a+b;
+	public static void str(String a){
+		a ="myname";
 		}
 }
